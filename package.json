@@ -6,6 +6,7 @@
   "license": "Apache-2.0",
   "private": false,
   "devDependencies": {
-    "sass": "^1.56.0"
+    "sass": "^1.56.0",
+    "scss": "^0.2.4"
   }
 }
