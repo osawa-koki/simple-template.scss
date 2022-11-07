@@ -18,14 +18,14 @@ $breakpoint: (
 // ==============================
 
 body {
-  background-color: #bebeff;
+  background-color: darkgrey;
   @include mq(sb) {
-    background-color: #ffbebe;
+    background-color: salmon;
   }
   @include mq(tb) {
-    background-color: #ffbebe;
+    background-color: yellow;
   }
   @include mq(fb) {
-    background-color: #cacaca;
+    background-color: lightblue;
   }
 }
