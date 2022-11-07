@@ -1,0 +1,8 @@
+{
+  "name": "simple-template.scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "osawa-koki",
+  "license": "Apache-2.0",
+  "private": false
+}
